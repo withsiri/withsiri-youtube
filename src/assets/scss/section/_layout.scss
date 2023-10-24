@@ -5,7 +5,8 @@
     width: 260px;
     height: 100%;
     z-index: 1000;
-    background-color: yellow;
+    background-color: #000;
+    overflow-y: auto;
 }
 #main {
     width: 2000px;

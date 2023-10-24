@@ -1,22 +1,22 @@
-import React from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import React from "react"
+import { BrowserRouter, Route, Routes } from "react-router-dom"
 
-import Home from './pages/Home'
-import Today from './pages/Today'
-import Developer from './pages/Developer'
-import Webd from './pages/Webd'
-import Website from './pages/Website'
-import Gsap from './pages/Gsap'
-import Port from './pages/Port'
-import Youtube from './pages/Youtube'
-import Channel from './pages/Channel'
-import Video from './pages/Video'
-import Search from './pages/Search'
-import Not from './pages/Not'
+import Home from "./pages/Home"
+import Today from "./pages/Today"
+import Developer from "./pages/Developer"
+import Webd from "./pages/Webd"
+import Website from "./pages/Website"
+import Gsap from "./pages/Gsap"
+import Port from "./pages/Port"
+import Youtube from "./pages/Youtube"
+import Channel from "./pages/Channel"
+import Video from "./pages/Video"
+import Search from "./pages/Search"
+import Not from "./pages/Not"
 
-import Header from './components/section/Header'
-import Main from './components/section/Main'
-import Footer from './components/section/Footer'
+import Header from "./components/section/Header"
+import Main from "./components/section/Main"
+import Footer from "./components/section/Footer"
 
 const App = () => {
     return (
