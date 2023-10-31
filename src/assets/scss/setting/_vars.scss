@@ -9,8 +9,12 @@
     --black400: #444;
     --black500: #000;
 
-    
-    --blackAlpha100: #11111125;
+    --blackAlpha: #00000000;
+    --blackAlpha100: #00000025;
+    --blackAlpha200: #0000004d;
+    --blackAlpha300: #00000091;
+    --blackAlpha400: #000000c3;
+    --blackAlpha500: #000000eb;
 
     --white: #fff;
     --white100: #efefef;
@@ -33,6 +37,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-text-size-adjust: 100%;
+
 
     @media (max-width: 800px) {
         font-size: 14px;

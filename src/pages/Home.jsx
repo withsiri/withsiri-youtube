@@ -14,8 +14,7 @@ const Home = () => {
         <Main 
             title="withsiri youtube"
             description="withsiri 유튜브 채널에 오신것을 환영합니다">
-            Home
-
+                
             <Today />
             <Developher />
             <Webd />

@@ -4,8 +4,7 @@
     top: 0;
     width: 260px;
     height: 100%;
-    z-index: 1000;
-    background-color: #000;
+    z-index: 10000;
     overflow-y: auto;
     border-right: 1px solid var(--black100);
 }
@@ -14,7 +13,6 @@
     min-height: 100vh;
     margin: 0 auto;
     padding-left: 260px;
-    background-color: #000
 }
 #footer {
     background-color: var(--black100);
@@ -24,4 +22,26 @@
     width: calc(100% - 260px);
     color: var(--black400);
     font-size: 0.8rem;
+}
+
+@media (max-width: 800px) {
+    #header {
+        left: -260px;
+
+        h1 {
+            position: fixed;
+            left: 0;
+            top: 0;
+        }
+    }
+
+    #main {
+        padding-left: 0;
+    }
+
+    #footer {
+        width: 100%;
+        margin-left: 0;
+
+    }
 }
