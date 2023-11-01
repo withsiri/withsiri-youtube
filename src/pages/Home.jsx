@@ -1,7 +1,7 @@
 import React from "react"
 import Main from "../components/section/Main"
 import Today from "../components/contents/Today"
-import Developher from "../components/contents/Developher"
+import Developer from "../components/contents/Developer"
 import Webd from "../components/contents/Webd"
 import Website from "../components/contents/Website"
 import Gsap from "../components/contents/Gsap"
@@ -16,7 +16,7 @@ const Home = () => {
             description="withsiri 유튜브 채널에 오신것을 환영합니다">
                 
             <Today />
-            <Developher />
+            <Developer />
             <Webd />
             <Website />
             <Gsap />
