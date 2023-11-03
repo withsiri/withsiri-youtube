@@ -15,7 +15,6 @@ const Webd = () => {
                                 <img src={video.img} alt={video.title} />
                             </Link>
                         </div>
-
                     </div>
                 ))}
             </div>
