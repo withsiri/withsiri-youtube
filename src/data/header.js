@@ -36,7 +36,7 @@ export const headerMenu = [
     },{
         title: "GSAP Parallax",
         icon: <CiCoffeeCup />,
-        src: "/gasp",
+        src: "/gsap",
     },{
         title: "포트폴리오 사이트",
         icon: <CiDumbbell />,

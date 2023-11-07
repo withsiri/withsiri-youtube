@@ -2,7 +2,6 @@ import React from "react"
 import { gsapText } from "../../data/gsap"
 import { Link } from "react-router-dom"
 
-
 const Gsap = () => {
     return (
         <section id="gsap">
