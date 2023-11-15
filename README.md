@@ -1,7 +1,7 @@
 # 나만의 유튜브 사이트 만들기
 
 ## 완성작 보기
-미리보기 : 
+미리보기 : https://withsiri-youtube.netlify.app
 
 ## 사용스택
 - node.js를 설치하고 사용. 
